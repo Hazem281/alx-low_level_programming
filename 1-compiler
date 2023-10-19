@@ -1,2 +1,0 @@
-#!/bin/bash
-gcc -c $CFILE -0 'echo $CFILE | cut -d. -fa'.o
